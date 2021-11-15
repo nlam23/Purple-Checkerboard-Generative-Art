@@ -1,3 +1,5 @@
+// Hi Vanessa - you haven't added me as a collaborator, so these changes will appear as a pull request in your repository. If you merge the pull request, this comment will appear in your repository.
+
 CANVAS_WIDTH = 500
 CANVAS_HEIGHT = 500
 NUM_ROWS = 10
